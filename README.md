@@ -1,4 +1,4 @@
-<h1 align="center">🍔🍟🍗 Meal analysis with Theseus 🍞🍖🍕</h1>
+<h1 align="center">🍔🍟🍗 Monitoring Diet people by food categorization using DL 🍞🍖🍕</h1>
 
 <p align="center">
 
